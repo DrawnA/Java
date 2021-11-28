@@ -113,7 +113,7 @@ div.HStyle17
 
 <BODY>
 
-<P CLASS=HStyle0> 프로젝트 Speccification </P>
+<P CLASS=HStyle0> 프로젝트 Specification </P>
 <TABLE border="1" cellspacing="0" cellpadding="0" style='border-collapse:collapse;border:none;'>
 <TR>
 	<TD valign="middle" style='width:80px;height:40px;border-left:solid #000000 0.7pt;border-right:solid #000000 0.7pt;border-top:solid #000000 0.7pt;border-bottom:solid #000000 0.7pt;padding:7.5pt 7.5pt 7.5pt 7.5pt'>
