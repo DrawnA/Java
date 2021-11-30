@@ -1016,7 +1016,20 @@ div.HStyle17
 <img src="https://github.com/DrawnA/Java/blob/main/show/result2.png">
 <br>
 <img src="https://github.com/DrawnA/Java/blob/main/show/result3.png">
-<br>	
+<br>
+<br>
+<P CLASS=HStyle0><h3>- 프로젝트 ERD</h3></P>
+<img src="https://github.com/DrawnA/Java/blob/main/show/board_테이블.PNG">
+<br>
+<img src="https://github.com/DrawnA/Java/blob/main/show/member2_테이블.PNG">
+<br>
+<P CLASS=HStyle0><h3>- 프로젝트 Java Bean Graph 다이어그램</h3></P>
+<img src="https://github.com/DrawnA/Java/blob/main/show/root-context.PNG">
+<br>
+<img src="https://github.com/DrawnA/Java/blob/main/show/servlet-context.PNG">
+<br>
+<P CLASS=HStyle0><h3>- 프로젝트 URL mapping</h3></P>
+<img src="https://github.com/DrawnA/Java/blob/main/show/url_mappings.PNG">
 
 </BODY>
 
