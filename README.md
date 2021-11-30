@@ -1009,7 +1009,14 @@ div.HStyle17
 	</TD>
 </TR>
 </TABLE>
-
+<br>
+<P CLASS=HStyle0><h3>- 프로젝트 예시화면</h3></P>
+<img src="https://github.com/DrawnA/Java/blob/main/show/result1.png">
+<br>
+<img src="https://github.com/DrawnA/Java/blob/main/show/result2.png">
+<br>
+<img src="https://github.com/DrawnA/Java/blob/main/show/result3.png">
+<br>	
 
 </BODY>
 
